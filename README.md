@@ -1,3 +1,14 @@
+> [!IMPORTANT]
+> **Ce dépôt a déménagé → [github.com/numspot/longue-vue](https://github.com/numspot/longue-vue)**
+>
+> Ce dépôt est archivé et n'est plus maintenu. Merci d'utiliser le dépôt de l'organisation numspot pour les issues, les pull requests et les releases.
+>
+> **This repository has moved to [github.com/numspot/longue-vue](https://github.com/numspot/longue-vue).** It is archived and read-only.
+>
+> ```sh
+> git remote set-url origin https://github.com/numspot/longue-vue.git
+> ```
+
 <div align="center">
 
 <img src="docs/logo.svg" alt="longue-vue — CMDB for Kubernetes · SecNumCloud" width="460" />
